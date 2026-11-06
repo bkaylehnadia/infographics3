@@ -1,0 +1,199 @@
+@charset "UTF-8";
+
+html, body * {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+main {
+    width: 42.0rem;
+    height: 37.5rem;
+    overflow: hidden;
+    position: relative;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(213, 236, 255);
+}
+main {
+    width: 42.0rem;
+    height: 37.5rem;
+    overflow: hidden;
+}
+
+.pics {
+    position: absolute;
+    width: 42rem;
+    top: 15rem;
+}
+
+.white {
+    background-color: white;
+    width: 42.0rem;
+    height:37.5rem;
+}
+
+.logo {
+    position: absolute;
+    width: 14rem;
+    right:0;
+    top: 4rem;
+    z-index: 10;
+}
+
+.bar {
+    position: absolute;
+    width: 30rem;
+    top: 14rem;
+    left: 1rem;
+    z-index: 4;
+}
+.study {
+    position: absolute;
+    width: 20rem;
+    top: 4rem;
+    left: 8rem;
+    z-index: 4;
+}
+.together {
+    position: absolute;
+    width: 19rem;
+    top: 9rem;
+    left: 8rem;
+    z-index: 4;
+}
+
+.studygirl {
+    position: absolute;
+    width: 45rem;z-index: 1;
+}
+
+.half {
+    position: absolute;
+    left: 0;
+    width: 55%;
+    z-index: 1000;
+}
+.tri {
+    position: absolute;
+    left: 0;
+    width: 140%;
+    z-index: 1900;
+}
+.study2 {
+    position: absolute;
+    left: 1.4rem;
+    top: 24rem;
+    width: 30%;
+    z-index: 1909;
+}
+.alone {
+    position: absolute;
+    left: 1.1rem;
+    top: 29rem;
+    width: 30%;
+    z-index: 1990;
+}
+.wifi1 {
+    position: absolute;
+    left: 13.1rem;
+    top: 22rem;
+    width: 20%;
+    z-index: 1990;
+}
+.wifi2 {
+    position: absolute;
+    left: 13.1rem;
+    top: 22rem;
+    width: 20%;
+    z-index: 1990;
+}
+.wifi3 {
+    position: absolute;
+    left: 13.1rem;
+    top: 22rem;
+    width: 20%;
+    z-index: 1990;
+}
+.vol1 {
+    position: absolute;
+    left: 2.1rem;
+    top: 22rem;
+    width: 20%;
+    z-index: 1990;
+}
+.vol2 {
+    position: absolute;
+    left: 2.1rem;
+    top: 22rem;
+    width: 20%;
+    z-index: 1990;
+
+}
+.vol3 {
+    position: absolute;
+    left: 2.1rem;
+    top: 22rem;
+    width: 20%;
+    z-index: 1990;
+
+}
+
+.tri2 {
+    position: absolute;
+    left: -4;
+    width: 100%;
+    z-index: 3;
+}
+
+.book {
+    position: absolute;
+    z-index: 999;
+    width: 17rem;
+    top: 7rem;
+    left: 1.7rem;
+}
+.today {
+    position: absolute;
+    z-index: 999;
+    top: 14rem;
+    left: 1.7rem;
+    width: 17rem;
+}
+
+.new {
+    position: absolute;
+    width: 49rem;
+    background-color: white;
+    height: 40rem;
+    z-index: 9996;
+}
+
+.logodc {
+    top: 10rem;
+    position: absolute;
+    width: 30rem;
+    left: 5.4rem;
+    z-index: 9999;
+}
+
+.success {
+    position: absolute;
+    z-index: 9998;
+    width: 19rem;
+    top: 19rem;
+    left: 15.9rem;
+}
+
+.pic2 {
+    position: absolute;
+    width: 120%;
+
+    z-index: 2;
+}
